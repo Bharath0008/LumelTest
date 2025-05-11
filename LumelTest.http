@@ -1,0 +1,6 @@
+@LumelTest_HostAddress = http://localhost:5157
+
+GET {{LumelTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
