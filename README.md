@@ -9,7 +9,7 @@ This repository contains the backend API implementation for an e-commerce system
    ```
 
 2. Set up the database using the SQL scripts in the `SalesData` directory.
-
+Link: https://github.com/Bharath0008/LumelTest/blob/master/SalesData.sql
 
 ## API Endpoints
 
